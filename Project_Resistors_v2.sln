@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Resistors_v2", "Project_Resistors_v2\Project_Resistors_v2.csproj", "{DDACD0B1-AD47-421F-940C-D7809296FB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDACD0B1-AD47-421F-940C-D7809296FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDACD0B1-AD47-421F-940C-D7809296FB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDACD0B1-AD47-421F-940C-D7809296FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDACD0B1-AD47-421F-940C-D7809296FB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F714A502-2A1B-4B69-BC06-5E0898666B25}
+	EndGlobalSection
+EndGlobal
