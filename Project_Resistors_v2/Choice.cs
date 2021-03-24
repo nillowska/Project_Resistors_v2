@@ -8,7 +8,6 @@ namespace Project_Resistors_v2
     {
         public void takeAChoice()
         {
-
             int connection;
             Console.WriteLine("Witaj w kalkulatorze rezystancji wypadkowej.\nWybierz spobób połączenia rezystorów. " +
                 "Naciśnij '1' aby wybrać połączenie szeregowe. Naciśnij '2' aby wybrać połączenie równoległe.");
