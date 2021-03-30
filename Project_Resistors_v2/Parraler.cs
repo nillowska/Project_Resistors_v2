@@ -6,7 +6,7 @@ namespace Project_Resistors_v2
 {
     public class Parraler : ValueOfResistors
     {
-        public void NumberOfResistors_P()
+        public void ResultantParraler()
         {
             float rParraler1;
             float rParraler2;

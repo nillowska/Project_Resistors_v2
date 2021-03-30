@@ -6,7 +6,7 @@ namespace Project_Resistors_v2
 {
     public class Series : ValueOfResistors
     {
-        public void NumberOfResistors()
+        public void ResultantSeries()
         {
             float rParraler1;
 
