@@ -31,6 +31,5 @@ namespace Project_Resistors_v2
                 Console.WriteLine("Rezystancja wypadkowa wynosi: " + rParraler1);
             }
         }
-
     }
 }

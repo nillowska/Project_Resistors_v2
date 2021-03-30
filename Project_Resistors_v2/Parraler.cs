@@ -8,12 +8,6 @@ namespace Project_Resistors_v2
     {
         public void NumberOfResistors_P()
         {
-            int numberOfResistors;
-            float r1;
-            float r2;
-            float r3;
-            float r4;
-            float r5;
             float rParraler1;
             float rParraler2;
             float rParraler3;

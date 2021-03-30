@@ -9,7 +9,7 @@ namespace Project_Resistors_v2
             ValueOfResistors values = new ValueOfResistors();
             Choice choice = new Choice();
             values.valuesOfResistors();
-            choice.takeAChoice();
+            choice.takeAChoice(); 
         }
     }
 }
